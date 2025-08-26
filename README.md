@@ -1,5 +1,4 @@
-## Hello World! 👋
-<h1 align="center">Hi, I'm Tara </h1>
+<h1 align="center">Hello World, I'm Tara! </h1>
 <p align="center">🎓 4th Year Computer Science Student @ GVSU | 🌍 Tech + Public Policy Enthusiast</p>
 
 ---
