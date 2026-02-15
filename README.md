@@ -5,16 +5,17 @@
 
 ### 🚀 About Me
 - 🎓 I’m a senior studying **Computer Science at Grand Valley State University**  
-- 🏛️ Career Goal: Work in **public policy and legislature for technology**  
+- 💻 Current Career Goal: Work in **software and mobile development**
+- 🏛️ Future Career Goal: Work in **public policy and legislature for technology**  
 - 🔭 Currently working on:
+  - 🔔 A **Glowforge Notification Workflow** for timely appointment notifications in Discord!
   - 🧙 A **Zork-inspired text adventure game** with a magical fantasy twist  
-  - 📚 A **documentation hub** for student developers at GVSU  
 
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** Python · JavaScript · TypeScript · C · C++ · HTML  
-- **Frameworks & Tools:** React · Node.js · Git · VSCode  
+- **Languages:** Python · JavaScript · TypeScript · C · C++ · HTML · SQL
+- **Frameworks & Tools:** React · Node.js · Git · VSCode
 
 ---
 
